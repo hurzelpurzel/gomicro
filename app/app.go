@@ -1,8 +1,8 @@
 package main
 
 import (
+	service "app/services"
 	"fmt"
-	service "hello/services"
 )
 
 var appName = "accountservice"
